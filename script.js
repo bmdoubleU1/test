@@ -1,3 +1,3 @@
 console.log("Hello Git World");
 
-alert("Git");
+alert("Git2");
